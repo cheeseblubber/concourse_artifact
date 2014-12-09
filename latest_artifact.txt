@@ -1,1 +1,1 @@
-https://s3.amazonaws.com/gocd-concourse-test/dummy-0.6.0.txt
+https://s3.amazonaws.com/gocd-concourse-test/dummy-0.7.0.txt
